@@ -12,3 +12,5 @@ Implementation of epipolar line estimation using weak calibration and 8 point al
 * Fundamental matrix calculation
 * Epipolar line calculation and drawing
 * Epipole calculation
+
+![image](https://github.com/Zylog101/Epipolar-Line-Estimation/blob/master/Image/ELEstim.JPG)
